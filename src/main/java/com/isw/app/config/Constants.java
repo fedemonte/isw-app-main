@@ -12,4 +12,5 @@ public final class Constants {
     public static final String DEFAULT_LANGUAGE = "es";
 
     private Constants() {}
+    //2do comentario
 }
